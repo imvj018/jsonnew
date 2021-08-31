@@ -1,0 +1,11 @@
+{
+  "body": [
+    {
+      "firstname": "Vijay",
+      "lastname": "M",
+      "empid": "1037",
+      "laborgrp": "LG02",
+      "password": "pass@1"
+    }
+  ]
+}
