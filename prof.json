@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "firstname": "Test",
+      "lastname": "Test",
+      "empid": "1234",
+      "laborgrp": "LG01",
+      "password": "Pass123"
+    },
+    {
+      "id": "2",
+      "firstname": "Shawn",
+      "lastname": "Doe",
+      "empid": "1000",
+      "laborgrp": "LG01",
+      "password": "Pass1234"
+    },
+    {
+      "id": "3",
+      "firstname": "Vijay",
+      "lastname": "M",
+      "empid": "1037",
+      "laborgrp": "LG01",
+      "password": "1"
+    },
+    {
+      "id": "4",
+      "firstname": "fname",
+      "lastname": "lname",
+      "empid": "1122",
+      "laborgrp": "LG02",
+      "password": "pword"
+    },
+    {
+      "id": "5",
+      "firstname": "Gopi",
+      "lastname": "nath",
+      "empid": "1212",
+      "laborgrp": "LG02",
+      "password": "x1"
+    },
+    {
+      "id": "6",
+      "firstname": "Vijay",
+      "lastname": "xyz",
+      "empid": "1123",
+      "laborgrp": "",
+      "password": ""
+    }
+  ]
