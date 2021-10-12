@@ -1,0 +1,25 @@
+[{
+		"name": "Vijay",
+		"password": "1234",
+		"contact": "987456321",
+		"country": "India"
+	},
+	{
+		"name": "Surendhar",
+		"password": "asdfg",
+		"contact": "123456789",
+		"country": "INdia"
+	},
+	{
+		"name": "Kiruba",
+		"password": "iuqewfbeaf",
+		"contact": "8961568941",
+		"country": "USA"
+	},
+	{
+		"name": "Divakar",
+		"password": "ed87fdf",
+		"contact": "9871532050",
+		"country": "UK"
+	}
+]
